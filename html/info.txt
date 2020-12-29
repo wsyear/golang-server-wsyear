@@ -1,0 +1,15 @@
+<head>
+	<meta charset="utf-8">
+	<title>404 Not Found</title>
+</head>
+<body style="display: flex;">
+	<div style="margin: auto;">
+		<div style="font-size: 10rem;text-align: center;font-weight: 1000;font-family: monaco;color:#3f3f3f">
+			Oops!
+		</div>
+		<div style="font-size:2rem;text-align: center;font-family: monaco;">
+			404 Not Found.<br>
+			The web page seems to be lost
+		</div>
+	</div>
+</body>
